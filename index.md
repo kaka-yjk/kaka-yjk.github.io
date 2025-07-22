@@ -4,7 +4,7 @@ title: JiakangYu's Homepage
 
 ## Welcome to My Homepage🚀
 
-[📄 My CV](./resume.pdf) | [👨‍💻 GitHub](https://github.com/kaka-yjk) | [🎓 Google Scholar](https://scholar.google.com/citations?user=FpbncKYAAAAJ&hl=en)
+[📄 My CV](./resume.pdf) | [👨‍💻 GitHub](https://github.com/kaka-yjk) | [🎓 Google Scholar](https://scholar.google.com/citations?user=FpbncKYAAAAJ&hl=en) | 📧 **Email**: [jiakangyu@stu.jhun.edu.cn](mailto:jiakangyu@stu.jhun.edu.cn) / [kaka202587@gmail.com](mailto:kaka202587@gmail.com)
 
 ---
 
