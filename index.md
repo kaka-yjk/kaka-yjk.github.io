@@ -4,7 +4,7 @@ title: JiakangYu's Homepage
 
 ## Welcome to My Homepage🚀
 
-[📄 My CV](./resume.pdf) | [👨‍💻 GitHub](https://github.com/kaka-yjk) | [🎓 Google Scholar](https://scholar.google.com/citations?user=FpbncKYAAAAJ&hl=en) | 📧 **Email**: [jiakangyu@stu.jhun.edu.cn](mailto:jiakangyu@stu.jhun.edu.cn) / [kaka202587@gmail.com](mailto:kaka202587@gmail.com)
+[📄 My CV](./CV.pdf) | [👨‍💻 GitHub](https://github.com/kaka-yjk) | [🎓 Google Scholar](https://scholar.google.com/citations?user=FpbncKYAAAAJ&hl=en) | 📧 **Email**: [jiakangyu@stu.jhun.edu.cn](mailto:jiakangyu@stu.jhun.edu.cn) / [kaka202587@gmail.com](mailto:kaka202587@gmail.com)
 
 ---
 
@@ -18,7 +18,7 @@ My research interests include:
 * Multimodal Chain-of-Thought Reasoning
 * Multimodal Large Language Models
 
-I have hands-on project experience in both Big Data Development and Software Development. I am always open to discussing academic questions or any topics related to interesting projects! If you would like to chat or collaborate, please do not hesitate to reach out via email.
+I am always open to discussing academic questions or any topics related to interesting projects! If you would like to chat or collaborate, please do not hesitate to reach out via email.
 
 ---
 
