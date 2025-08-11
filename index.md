@@ -6,11 +6,13 @@ title: JiakangYu's Homepage
 ---
 ## About Me
 I am a first-year Master's student in Electronic Information at Jianghan University, under the supervision of Prof. Hongtao Deng. I completed my Bachelor's degree in Electronic and Information Engineering from Jianghan University in 2024.
+
 I am currently seeking a Ph.D position in related research fields. 
 My research interests include:
 * Multimodal Machine Learning
 * Multimodal Chain-of-Thought Reasoning
 * Multimodal Large Language Models
+
 I am always open to discussing academic questions or any topics related to interesting projects! If you would like to chat or collaborate, please do not hesitate to reach out via email.
 ---
 ## Projects
