@@ -19,5 +19,5 @@ I am always open to discussing academic questions or any topics related to inter
 
 ## Projects
 Here are some of my open-source projects:
-* **[AMCCL: Multimodal Sentiment Analysis Network](https://github.com/kaka-yjk/amccl)**: My recent research work on multimodal fusion and contrastive learning.
+* **[AMCCL: Adaptive Multi-Scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis](https://github.com/kaka-yjk/amccl)**: Our paper has been accepted to PRICAI 2025!🚀 🚀 🚀
 * **[Maintenance Data Visualization System](https://github.com/kaka-yjk/maintenancesystem)**: The back-end code for a data visualization and management system designed for analyzing maintenance data.
