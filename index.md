@@ -19,4 +19,4 @@ I am always open to discussing academic questions or any topics related to inter
 
 ## News
 
-* **[08/2025]**: One paper has been accepted to PRICAI 2025!🚀 🚀 🚀
+* **[08/2025]**: One paper has been accepted to PRICAI 2025 (CCF-C,oral).
