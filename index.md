@@ -17,7 +17,6 @@ My research interests include:
 
 I am always open to discussing academic questions or any topics related to interesting projects! If you would like to chat or collaborate, please do not hesitate to reach out via email.
 
-## Projects
-Here are some of my open-source projects:
+## News
+
 * **[AMCCL: Adaptive Multi-Scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis](https://github.com/kaka-yjk/amccl)**: Our paper has been accepted to PRICAI 2025!🚀 🚀 🚀
-* **[Maintenance Data Visualization System](https://github.com/kaka-yjk/maintenancesystem)**: The back-end code for a data visualization and management system designed for analyzing maintenance data.
