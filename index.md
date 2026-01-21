@@ -8,7 +8,7 @@ title: JiakangYu's Homepage
 ## Biography
 Hello! I am a second-year Master's student in Electronic Information at Jianghan University. I completed my Bachelor's degree in Electronic and Information Engineering from Jianghan University in 2024. 
 
-At present, I am serving as an LLM Algorithm Intern at HiThink Research, while concurrently seeking a Ph.D in related research fields.
+At present, I am serving as a research intern at HiThink Research, while concurrently seeking a Ph.D in related research fields.
 
 My research interests include:
 * Multimodal Information Extraction
@@ -17,10 +17,8 @@ My research interests include:
 * Hallucination Detection
 * GUI Agent
 
-I am always open to discussing academic questions or any topics related to interesting projects! If you would like to chat or collaborate, please do not hesitate to reach out via email.
-
 ## News
 * **[08/2025]**: One paper has been accepted to PRICAI 2025 (CCF-C, Oral).
 
 ## Under Review
-* **[09/2025]**: One paper is under review at ICASSP 2026 (CCF-B). 
+* **[01/2026]**: One paper is under review at ICMR 2026 (CCF-B). 
