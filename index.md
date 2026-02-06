@@ -21,4 +21,4 @@ My research interests include:
 * **[08/2025]**: One paper has been accepted to PRICAI 2025 (CCF-C, Oral).
 
 ## Under Review
-* **[01/2026]**: One paper is under review at ICMR 2026 (CCF-B). 
+* **[02/2026]**: Two papers are under review at ICMR 2026 (CCF-B). 
