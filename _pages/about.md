@@ -25,10 +25,10 @@ At present, I am serving as a research intern at HiThink Research, while concurr
 
 <h1 id="intern">Intern</h1>
 * Research Intern, HiThink Research, 2025.11 - Present
-  * Multimodal Document Image Editing (Research): Developed Edit Pipeline, constructed Benchmarks, and developed complex Agentic Image Edit workflow.
+  * Multimodal Document Image Editing (Research): Developed edit pipeline, constructed benchmarks, and developed complex agentic image edit workflow.
   * Factual Hallucination Detection (System): Developed a three-stage Agent system comprising atomic fact segmentation, information retrieval (Web & Financial databases), and reasoning/judgment.
 * Algorithm Intern, MEIZU, 2025.09 - 2025.10
-  * Mobile GUI Agent: Applied Reinforcement Learning for GUI Agent development on mobile operating systems.
+  * Mobile GUI Agent: Applied reinforcement learning for GUI Agent development on mobile operating systems.
 
 <h1 id="research-interests">Research Interests</h1>
 * Multimodal Understanding and Generation
