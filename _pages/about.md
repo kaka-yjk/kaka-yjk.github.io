@@ -13,21 +13,18 @@ Hello! I am a second-year Master's student in **Computer Technology** at **Jiang
 At present, I am serving as a research intern at **HiThink Research**, while concurrently seeking a Ph.D in related research fields.
 
 <h1 id="news">News</h1>
-======
 * **[08/2025]**: One paper has been accepted to PRICAI 2025 (CCF-C, Oral). [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34)
 
 <h1 id="education">Education</h1>
-======
 * **Master of Computer Technology**, Jianghan University, 2024 - Present
 * **Bachelor of Electronic and Information Engineering**, Jianghan University, 2020 - 2024
 
 <h1 id="intern">Intern</h1>
-======
-* **Research Intern**, HiThink Research, 2024 - Present
-  * Focus on Multimodal Sentiment Analysis and related research fields.
+* **Research Intern**, HiThink Research, 2025.10 - Present
+  * **Multimodal Document Image Editing (Research)**: Developed Edit Pipeline, constructed Benchmarks, and explored Agentic Image Edit.
+  * **Factual Hallucination Detection (System)**: Developed a three-stage Agent system comprising atomic fact segmentation, information retrieval (Web & Financial databases), and reasoning/judgment.
 
 <h1 id="research-interests">Research Interests</h1>
-======
 * **Multimodal Information Extraction**
 * **Multimodal Sentiment Analysis**
 * **Image Editing**
