@@ -13,8 +13,9 @@ Hello! I am a second-year Master's student in **Computer Technology** at **Jiang
 At present, I am serving as a research intern at **HiThink Research**, while concurrently seeking a Ph.D in related research fields.
 
 <h1 id="news">News</h1>
-* **[02/2026]**: Two papers (**First Author**) are under review at ICMR 2026 (CCF-B).
-* **[08/2025]**: One paper (**First Author**) has been accepted to PRICAI 2025 (CCF-C, Oral). [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34)
+* 🚀 **[02/2026]**: Two papers (**First Author**) are under review at ICMR 2026 (CCF-B).
+* 💼 **[11/2025]**: Joined **HiThink Research** as a Research Intern.
+* 🏆 **[08/2025]**: One paper (**First Author**) has been accepted to PRICAI 2025 (CCF-C, Oral). [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34) 🎉
 
 <h1 id="education">Education</h1>
 * **Master**
@@ -29,6 +30,7 @@ At present, I am serving as a research intern at **HiThink Research**, while con
 * **Algorithm Intern**, MEIZU, 2025.09 - 2025.10
   * **Mobile GUI Agent**: Applied Reinforcement Learning for GUI Agent development on mobile operating systems.
 
-<h1 id="research-interests">研究方向 (Research Interests)</h1>
-* **多模态理解与生成 (Multimodal Understanding and Generation)**
-* **自然语言处理 (Natural Language Processing)**
+<h1 id="research-interests">Research Interests</h1>
+* **Multimodal Understanding and Generation**
+* **Natural Language Processing**
+* **Multimodal Large Language Models (MLLMs) and Agents**
