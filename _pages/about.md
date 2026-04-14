@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<h1>About Me</h1>
 
 Hello! I am a second-year Master's student in Computer Technology at Jianghan University. I completed my Bachelor's degree in Electronic and Information Engineering from Jianghan University in 2024. 
 
@@ -24,10 +26,10 @@ My research interests mainly include multimodal understanding and generation, mu
   Electronic and Information Engineering | [Jianghan University](https://www.jhun.edu.cn/) | 2020 - 2024
 
 <h1 id="intern">Intern</h1>
-* Research Intern, HiThink Research, 2025.11 - Present
+* **Research Intern, HiThink Research, 2025.11 - Present**
   * Multimodal Document Image Editing (Research): Developed edit pipeline, constructed benchmarks, and developed complex agentic image edit workflow.
   * Factual Hallucination Detection (System): Developed a three-stage Agent system comprising atomic fact segmentation, information retrieval (Web & Financial databases), and reasoning/judgment.
-* Algorithm Intern, MEIZU, 2025.09 - 2025.10
+* **Algorithm Intern, MEIZU, 2025.09 - 2025.10**
   * Mobile GUI Agent: Applied reinforcement learning for GUI Agent development on mobile operating systems.
 
 <h1 id="research-interests">Research Interests</h1>
