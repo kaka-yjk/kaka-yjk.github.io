@@ -2,8 +2,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "GitHub"
     url: "https://github.com/kaka-yjk"
