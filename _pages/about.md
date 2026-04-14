@@ -17,19 +17,18 @@ At present, I am serving as a research intern at **HiThink Research**, while con
 * **[08/2025]**: One paper (**First Author**) has been accepted to PRICAI 2025 (CCF-C, Oral). [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34)
 
 <h1 id="education">Education</h1>
-* **Master of Computer Technology** | [Jianghan University](https://www.jhun.edu.cn/) | 2024 - 2027
-* **Bachelor of Electronic and Information Engineering** | [Jianghan University](https://www.jhun.edu.cn/) | 2020 - 2024
+* **Master**
+  Computer Technology | [Jianghan University](https://www.jhun.edu.cn/) | 2024 - 2027
+* **Bachelor**
+  Electronic and Information Engineering | [Jianghan University](https://www.jhun.edu.cn/) | 2020 - 2024
 
 <h1 id="intern">Intern</h1>
 * **Research Intern**, HiThink Research, 2025.11 - Present
-  * **Multimodal Document Image Editing (Research)**: Developed Edit Pipeline, constructed Benchmarks, and developed complex **Agentic Image Edit workflow**.
+  * **Multimodal Document Image Editing (Research)**: Developed Edit Pipeline, constructed Benchmarks, and developed complex Agentic Image Edit workflow.
   * **Factual Hallucination Detection (System)**: Developed a three-stage Agent system comprising atomic fact segmentation, information retrieval (Web & Financial databases), and reasoning/judgment.
 * **Algorithm Intern**, MEIZU, 2025.09 - 2025.10
-  * **Mobile GUI Agent**: Applied Reinforcement Learning (**GRPO**) for GUI Agent development on mobile operating systems.
+  * **Mobile GUI Agent**: Applied Reinforcement Learning for GUI Agent development on mobile operating systems.
 
-<h1 id="research-interests">Research Interests</h1>
-* **Multimodal Information Extraction**
-* **Multimodal Sentiment Analysis**
-* **Image Editing**
-* **Hallucination Detection**
-* **GUI Agent**
+<h1 id="research-interests">研究方向 (Research Interests)</h1>
+* **多模态理解与生成 (Multimodal Understanding and Generation)**
+* **自然语言处理 (Natural Language Processing)**
