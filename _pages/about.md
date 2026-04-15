@@ -10,10 +10,11 @@ redirect_from:
 
 <h1>About Me</h1>
 
-Hello! I am a second-year Master's student in Computer Technology at Jianghan University. I completed my Bachelor's degree in Electronic and Information Engineering from Jianghan University in 2024. 
+Hello! I am a second-year Master's student in Computer Technology at Jianghan University. 
 
-My research interests mainly include multimodal understanding and generation, multimodal language large models, and natural language processing. At present, I am serving as a research intern at HiThink Research.
+My research interests mainly include multimodal understanding and generation, multimodal language large models, and natural language processing. 
 
+At present, I am serving as a research intern at HiThink Research.
 <h1 id="news">News</h1>
 * 🚀 [02/2026]: Two papers are under review at **ICMR 2026 (CCF-B)**, First Author.
 * 💼 [11/2025]: Joined **HiThink Research** as a Research Intern.
