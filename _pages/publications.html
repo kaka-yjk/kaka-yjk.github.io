@@ -11,6 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Conference Papers</h2><hr />
+<ul>
+  <li>CodeMNER: Vision-Language Models are Better Multimodal Named Entity Recognizers via Progressive Vision-Code Alignment</li>
+</ul>
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
@@ -20,7 +25,9 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        {% if category[0] != "conferences" %}
+          <h2>{{ category[1].title }}</h2><hr />
+        {% endif %}
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
