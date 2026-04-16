@@ -16,7 +16,8 @@ My research interests mainly include multimodal understanding and generation, mu
 
 At present, I am serving as a research intern at HiThink Research.
 <h1 id="news">News</h1>
-* 🚀 [02/2026]: Two papers are under review at **ICMR 2026 (CCF-B)**, First Author.
+* 🚀 [04/2026]: One paper has been accepted to **ICMR 2026 (CCF-B)**, First Author. 《CodeMNER: Vision-Language Models are Better Multimodal Named Entity Recognizers via Progressive Vision-Code Alignment》.
+* 🚀 [04/2026]: One paper has been accepted to **ICMR 2026 (CCF-B)**, Second Author.
 * 💼 [11/2025]: Joined **HiThink Research** as a Research Intern.
 * 🏆 [08/2025]: One paper has been accepted to **PRICAI 2025 (CCF-C, Oral)**, First Author. [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34) 🎉
 
