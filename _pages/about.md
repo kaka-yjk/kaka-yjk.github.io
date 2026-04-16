@@ -15,9 +15,12 @@ Hello! I am a second-year Master's student at Jianghan University.
 My research interests mainly include multimodal understanding and generation, multimodal language large models, and natural language processing. 
 
 At present, I am serving as a research intern at HiThink Research.
+
+I am always open to academic discussions and welcome opportunities for research collaborations. Please feel free to reach out to me via email.
+
 <h1 id="news">News</h1>
 * 🚀 [04/2026]: One paper has been accepted to **ICMR 2026 (CCF-B)**, First Author. 《CodeMNER: Vision-Language Models are Better Multimodal Named Entity Recognizers via Progressive Vision-Code Alignment》.
-* 🚀 [04/2026]: One paper has been accepted to **ICMR 2026 (CCF-B)**, Second Author.
+* 🚀 [04/2026]: One paper has been accepted to **ICMR 2026 (CCF-B)**, Second Author. 《Query-Guided Conflict Inference and Incongruity-Aware Alignment for Implicit Hate Speech Detection in Videos》. I contributed significantly to the research and development of this work.
 * 💼 [11/2025]: Joined **HiThink Research** as a Research Intern.
 * 🏆 [08/2025]: One paper has been accepted to **PRICAI 2025 (CCF-C, Oral)**, First Author. 《AMCCL: Adaptive Multi-scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis》. [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34) 🎉
 * 🌱 [01/2025]: Started my AI research journey.
