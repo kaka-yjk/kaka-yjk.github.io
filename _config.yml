@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Jiakang Yu"
   pronouns         : # example: "she/her"  
-  bio              : "I am a second-year Master’s student in Computer Technology at Jianghan University."
+  bio              : "I am a second-year Master’s student at Jianghan University."
   location         : "Wuhan, China"
-  employer         : "Jianghan University"
+  employer         : "<a href='https://www.jhun.edu.cn/'>Jianghan University</a>"
   uri              : # URL
   email            : "jiakangyu@stu.jhun.edu.cn" 
 

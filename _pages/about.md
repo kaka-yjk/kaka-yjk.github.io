@@ -10,7 +10,7 @@ redirect_from:
 
 <h1>About Me</h1>
 
-Hello! I am a second-year Master's student in Computer Technology at Jianghan University. 
+Hello! I am a second-year Master's student at Jianghan University. 
 
 My research interests mainly include multimodal understanding and generation, multimodal language large models, and natural language processing. 
 
@@ -20,7 +20,7 @@ At present, I am serving as a research intern at HiThink Research.
 * 🚀 [04/2026]: One paper has been accepted to **ICMR 2026 (CCF-B)**, Second Author.
 * 💼 [11/2025]: Joined **HiThink Research** as a Research Intern.
 * 🏆 [08/2025]: One paper has been accepted to **PRICAI 2025 (CCF-C, Oral)**, First Author. 《AMCCL: Adaptive Multi-scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis》. [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34) 🎉
-* 🌱 [01/2025]: 开启我的人工智能研究之路。
+* 🌱 [01/2025]: Started my AI research journey.
 
 <h1 id="education">Education</h1>
 * **Master**  
