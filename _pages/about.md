@@ -21,7 +21,7 @@ I am always open to academic discussions and welcome opportunities for research 
 * 🚀 [04/2026]: One paper has been accepted to **ICMR 2026 (CCF-B)**, First Author. 《CodeMNER: Vision-Language Models are Better Multimodal Named Entity Recognizers via Progressive Vision-Code Alignment》. [[Paper]](https://doi.org/10.1145/3805622.3810770)
 * 🚀 [04/2026]: One paper has been accepted to **ICMR 2026 (CCF-B)**, Second Author. 《Query-Guided Conflict Inference and Incongruity-Aware Alignment for Implicit Hate Speech Detection in Videos》. [[Paper]](https://doi.org/10.1145/3805622.3810673)
 * 💼 [10/2025]: Joined **HiThink Research** as a Research Intern.
-* 🏆 [08/2025]: One paper has been accepted to **PRICAI 2025 (CCF-C)**, First Author. 《AMCCL: Adaptive Multi-scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis》. [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34) 🎉
+* 🏆 [08/2025]: One paper has been accepted to **PRICAI 2025 (CCF-C)**, First Author. 《AMCCL: Adaptive Multi-scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis》. [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34)
 * 🌱 [01/2025]: Started my AI research journey.
 
 <h1 id="education">Education</h1>
