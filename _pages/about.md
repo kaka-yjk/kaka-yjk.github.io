@@ -17,6 +17,7 @@ My research interests mainly include multimodal understanding and generation, mu
 I am always open to academic discussions and welcome opportunities for research collaborations. Please feel free to reach out to me via email.
 
 <h1 id="news">News</h1>
+* 📄 [07/2026]: Released an **arXiv preprint** as First Author: **ChartSync: A Benchmark for Visuo-Logical Cascading Chart Editing**. [[Paper]](https://arxiv.org/abs/2607.10301)
 * 💼 [05/2026]: Left **HiThink Research**.
 * 🚀 [04/2026]: One paper has been accepted to **ICMR 2026 (CCF-B)**, First Author. 《CodeMNER: Vision-Language Models are Better Multimodal Named Entity Recognizers via Progressive Vision-Code Alignment》. [[Paper]](https://doi.org/10.1145/3805622.3810770)
 * 🚀 [04/2026]: One paper has been accepted to **ICMR 2026 (CCF-B)**, Second Author. 《Query-Guided Conflict Inference and Incongruity-Aware Alignment for Implicit Hate Speech Detection in Videos》. [[Paper]](https://doi.org/10.1145/3805622.3810673)
