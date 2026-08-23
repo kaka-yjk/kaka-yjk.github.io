@@ -10,9 +10,9 @@ redirect_from:
 
 <h1>About Me</h1>
 
-Hello! I am a second-year Master's student at Jianghan University. 
+Hello! I am a final-year Master's student at Jianghan University.
 
-My research interests mainly include multimodal understanding and generation, multimodal large language models, and natural language processing. 
+My research interests mainly include agents, multimodal understanding and generation, and natural language processing, with a focus on recursive self-improvement and long-video understanding.
 
 I am always open to academic discussions and welcome opportunities for research collaborations. Please feel free to reach out to me via email.
 
@@ -40,6 +40,6 @@ I am always open to academic discussions and welcome opportunities for research 
   * Mobile GUI Agent: Applied reinforcement learning for GUI Agent development on mobile operating systems.
 
 <h1 id="research-interests">Research Interests</h1>
+* Agent
 * Multimodal Understanding and Generation
 * Natural Language Processing
-* Multimodal Large Language Models and Agents
