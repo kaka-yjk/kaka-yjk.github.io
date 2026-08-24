@@ -10,7 +10,7 @@ redirect_from:
 
 <h1>About Me</h1>
 
-Hello! I am a final-year Master's student at Jianghan University.
+Hello! I am a final-year Master's student at Jianghan University. I am currently working remotely on agent research with [Prof. Yun Chen](https://scai.sufe.edu.cn/cy/main.htm) of SUFE.
 
 My research interests mainly include agents, multimodal understanding and generation, and natural language processing, with a focus on recursive self-improvement and long-video understanding.
 
