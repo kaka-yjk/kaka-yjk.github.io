@@ -28,15 +28,15 @@ I am always open to academic discussions and welcome opportunities for research 
 
 <h1 id="education">Education</h1>
 * **Master**  
-  Computer Technology | [Jianghan University](https://www.jhun.edu.cn/) | 2024 - 2027
+  [Jianghan University](https://www.jhun.edu.cn/) | Computer Technology | 2024–2027
 * **Bachelor**  
-  Electronic and Information Engineering | [Jianghan University](https://www.jhun.edu.cn/) | 2020 - 2024
+  [Jianghan University](https://www.jhun.edu.cn/) | Electronic Information Engineering | 2020–2024
 
 <h1 id="intern">Intern</h1>
-* **Research Intern, HiThink Research, 2025.10 - 2026.05**
+* **HiThink Research, Research Intern, 2025.10 - 2026.05**
   * Multimodal Document Image Editing: Developed edit pipeline, constructed benchmarks, and developed complex agentic image edit workflow.
   * Factual Hallucination Detection: Developed a three-stage Agent system comprising atomic fact segmentation, information retrieval (Web & Financial databases), and reasoning/judgment.
-* **Algorithm Intern, MEIZU, 2025.09 - 2025.10**
+* **MEIZU, Algorithm Intern, 2025.09 - 2025.10**
   * Mobile GUI Agent: Applied reinforcement learning for GUI Agent development on mobile operating systems.
 
 <h1 id="research-interests">Research Interests</h1>
