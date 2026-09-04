@@ -17,6 +17,8 @@ My research interests mainly include agents, multimodal understanding and genera
 I am always open to academic discussions and welcome opportunities for research collaborations. Please feel free to reach out to me via email.
 
 <h1 id="news">News</h1>
+* 📄 [08/2026]: One **arXiv preprint** has been released, Second Author.<br>
+  《Multimodal Adaptive Expert Selection with Text Routing and Ordinal Prototype Optimization for Sentiment Analysis》. [[Paper]](https://arxiv.org/abs/2608.30726)
 * 📄 [07/2026]: One **arXiv preprint** has been released, First Author.<br>
   《ChartSync: A Benchmark for Visuo-Logical Cascading Chart Editing》. [[Paper]](https://arxiv.org/abs/2607.10301) [[Code]](https://github.com/kaka-yjk/ChartSyncCodebase) [[Dataset]](https://huggingface.co/datasets/JiakangYu/ChartSync)
 * 💼 [05/2026]: Left **HiThink Research**.
