@@ -17,16 +17,16 @@ My research interests mainly include agents, multimodal understanding and genera
 I am always open to academic discussions and welcome opportunities for research collaborations. Please feel free to reach out to me via email.
 
 <h1 id="news">News</h1>
-* 📄 [08/2026]: One **arXiv preprint** has been released, Second Author.<br>
+* 📄 [2026/08]: One **arXiv preprint** has been released, Second Author.<br>
   《Multimodal Adaptive Expert Selection with Text Routing and Ordinal Prototype Optimization for Sentiment Analysis》. [[Paper]](https://arxiv.org/abs/2608.30726)
-* 📄 [07/2026]: One **arXiv preprint** has been released, First Author.<br>
+* 📄 [2026/07]: One **arXiv preprint** has been released, First Author.<br>
   《ChartSync: A Benchmark for Visuo-Logical Cascading Chart Editing》. [[Paper]](https://arxiv.org/abs/2607.10301) [[Code]](https://github.com/kaka-yjk/ChartSyncCodebase) [[Dataset]](https://huggingface.co/datasets/JiakangYu/ChartSync)
-* 💼 [05/2026]: Left **HiThink Research**.
-* 🚀 [04/2026]: One paper has been accepted to **ICMR 2026 (CCF-B)**, First Author. 《CodeMNER: Vision-Language Models are Better Multimodal Named Entity Recognizers via Progressive Vision-Code Alignment》. [[Paper]](https://doi.org/10.1145/3805622.3810770)
-* 🚀 [04/2026]: One paper has been accepted to **ICMR 2026 (CCF-B)**, Second Author. 《Query-Guided Conflict Inference and Incongruity-Aware Alignment for Implicit Hate Speech Detection in Videos》. [[Paper]](https://doi.org/10.1145/3805622.3810673)
-* 💼 [10/2025]: Joined **HiThink Research** as a Research Intern.
-* 🏆 [08/2025]: One paper has been accepted to **PRICAI 2025 (CCF-C)**, First Author. 《AMCCL: Adaptive Multi-scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis》. [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34)
-* 🌱 [01/2025]: Started my AI research journey.
+* 💼 [2026/05]: Left **HiThink Research**.
+* 🚀 [2026/04]: One paper has been accepted to **ICMR 2026 (CCF-B)**, First Author. 《CodeMNER: Vision-Language Models are Better Multimodal Named Entity Recognizers via Progressive Vision-Code Alignment》. [[Paper]](https://doi.org/10.1145/3805622.3810770)
+* 🚀 [2026/04]: One paper has been accepted to **ICMR 2026 (CCF-B)**, Second Author. 《Query-Guided Conflict Inference and Incongruity-Aware Alignment for Implicit Hate Speech Detection in Videos》. [[Paper]](https://doi.org/10.1145/3805622.3810673)
+* 💼 [2025/10]: Joined **HiThink Research** as a Research Intern.
+* 🏆 [2025/08]: One paper has been accepted to **PRICAI 2025 (CCF-C)**, First Author. 《AMCCL: Adaptive Multi-scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis》. [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34)
+* 🌱 [2025/01]: Started my AI research journey.
 
 <h1 id="education">Education</h1>
 * **Master**  
