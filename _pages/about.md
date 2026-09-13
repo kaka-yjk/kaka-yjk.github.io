@@ -12,7 +12,7 @@ redirect_from:
 
 Hello! I am a final-year Master's student at Jianghan University. I am currently working remotely on agent research with [Prof. Yun Chen](https://scai.sufe.edu.cn/cy/main.htm) of SUFE.
 
-My research interests mainly include agents, multimodal understanding and generation, and natural language processing, with a focus on recursive self-improvement and long-video understanding.
+My current research focuses on recursive self-improvement.
 
 I am always open to academic discussions and welcome opportunities for research collaborations. Please feel free to reach out to me via email.
 
@@ -26,7 +26,6 @@ I am always open to academic discussions and welcome opportunities for research 
 * 🚀 [2026/04]: One paper has been accepted to **ICMR 2026 (CCF-B)**, Second Author. 《Query-Guided Conflict Inference and Incongruity-Aware Alignment for Implicit Hate Speech Detection in Videos》. [[Paper]](https://doi.org/10.1145/3805622.3810673)
 * 💼 [2025/10]: Joined **HiThink Research** as a Research Intern.
 * 🏆 [2025/08]: One paper has been accepted to **PRICAI 2025 (CCF-C)**, First Author. 《AMCCL: Adaptive Multi-scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis》. [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34)
-* 🌱 [2025/01]: Started my AI research journey.
 
 <h1 id="education">Education</h1>
 * **Master**  
