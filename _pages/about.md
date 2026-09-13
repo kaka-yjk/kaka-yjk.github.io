@@ -41,6 +41,6 @@ I am always open to academic discussions and welcome opportunities for research 
   * Mobile GUI Agent: Applied reinforcement learning for GUI Agent development on mobile operating systems.
 
 <h1 id="research-interests">Research Interests</h1>
-* Agent
+* LLM Agent
 * Multimodal Understanding and Generation
 * Natural Language Processing
