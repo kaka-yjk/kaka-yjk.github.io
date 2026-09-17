@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Preprints"
+permalink: /preprints/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign sorted_preprints = site.preprints | sort: "sort_key" | reverse %}
+{% for post in sorted_preprints %}
+  {% include archive-single.html %}
+{% endfor %}

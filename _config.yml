@@ -228,6 +228,8 @@ collections:
   publications:
     output: false
     permalink: /:collection/:path/
+  preprints:
+    output: false
   portfolio:
     output: true
     permalink: /:collection/:path/
