@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title{% if post.collection == 'publications' or post.collection == 'preprints' %} archive__item-title--compact{% endif %}" itemprop="headline">
       {% if post.collection == 'publications' or post.collection == 'preprints' %}
         <a href="{{ post.link }}">{{ title }}</a>
       {% elsif post.link %}
