@@ -26,9 +26,9 @@ My current research focuses on recursive self-improvement. Please feel free to r
 * 🏆 [2025/08]: One paper has been accepted to **PRICAI 2025 (CCF-C)**, First Author. 《AMCCL: Adaptive Multi-scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis》. [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34)
 
 <h1 id="education">Education</h1>
-* **Master**  
+* <strong class="education-degree">Master</strong><br>
   **Jianghan University** | Computer Technology | 2024.09-2027.06
-* **Bachelor**  
+* <strong class="education-degree">Bachelor</strong><br>
   **Jianghan University** | Electronic Information Engineering | 2020.09-2024.06
 
 <h1 id="intern">Internship</h1>
