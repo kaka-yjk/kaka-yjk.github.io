@@ -28,6 +28,7 @@ author:
   bio              : "I am a final-year Master’s student at Jianghan University."
   location         : "Wuhan, China"
   employer         : "Jianghan University"
+  employer_url     : "https://www.jhun.edu.cn/"
   uri              : # URL
   email            : "jiakangyu.ai@gmail.com"
 
