@@ -12,9 +12,7 @@ redirect_from:
 
 Hello! I am a final-year Master's student at Jianghan University. I am currently working remotely on agent research with [Prof. Yun Chen](https://scai.sufe.edu.cn/cy/main.htm) of SUFE.
 
-My current research focuses on recursive self-improvement.
-
-I am always open to academic discussions and welcome opportunities for research collaborations. Please feel free to reach out to me via email.
+My current research focuses on recursive self-improvement. Please feel free to reach out to me via email.
 
 <h1 id="news">News</h1>
 * 📄 [2026/08]: One **arXiv preprint** has been released, Second Author.<br>
@@ -29,9 +27,9 @@ I am always open to academic discussions and welcome opportunities for research 
 
 <h1 id="education">Education</h1>
 * **Master**  
-  [Jianghan University](https://www.jhun.edu.cn/) | Computer Technology | 2024–2027
+  **Jianghan University** | Computer Technology | 2024.09-2027.06
 * **Bachelor**  
-  [Jianghan University](https://www.jhun.edu.cn/) | Electronic Information Engineering | 2020–2024
+  **Jianghan University** | Electronic Information Engineering | 2020.09-2024.06
 
 <h1 id="intern">Internship</h1>
 * **HiThink Research, Research Intern, 2025.10 - 2026.05**
