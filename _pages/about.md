@@ -16,7 +16,7 @@ Hello! I am a final-year Master's student at Jianghan University. I am currently
 * 📄 [2026/08]: One **arXiv preprint** has been released, Second Author.<br>
   《Multimodal Adaptive Expert Selection with Text Routing and Ordinal Prototype Optimization for Sentiment Analysis》. [[Paper]](https://arxiv.org/abs/2608.30726)
 * 📄 [2026/07]: One **arXiv preprint** has been released, First Author.<br>
-  《ChartSync: A Benchmark for Visuo-Logical Cascading Chart Editing》. [[Paper]](https://arxiv.org/abs/2607.10301) [[Code]](https://github.com/kaka-yjk/ChartSyncCodebase) [[Dataset]](https://huggingface.co/datasets/JiakangYu/ChartSync)
+  《ChartSync: A Benchmark for Visuo-Logical Cascading Chart Editing》. [[Paper]](https://arxiv.org/abs/2607.10301)
 * 💼 [2026/05]: Left **HiThink Research**.
 * 🚀 [2026/04]: One paper has been accepted to **ICMR 2026 (CCF-B)**, First Author. 《CodeMNER: Vision-Language Models are Better Multimodal Named Entity Recognizers via Progressive Vision-Code Alignment》. [[Paper]](https://doi.org/10.1145/3805622.3810770)
 * 🚀 [2026/04]: One paper has been accepted to **ICMR 2026 (CCF-B)**, Second Author. 《Query-Guided Conflict Inference and Incongruity-Aware Alignment for Implicit Hate Speech Detection in Videos》. [[Paper]](https://doi.org/10.1145/3805622.3810673)
