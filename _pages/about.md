@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1>About Me</h1>
+<h1 id="about">About Me</h1>
 
 Hello! I am a final-year Master's student at Jianghan University. I am currently working remotely on agent research with [Prof. Yun Chen](https://scai.sufe.edu.cn/cy/main.htm) of SUFE. My current research focuses on recursive self-improvement. Please feel free to reach out to me via email.
 
