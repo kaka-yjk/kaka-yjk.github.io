@@ -6,10 +6,10 @@ main:
     url: /#news
 
   - title: "Education"
-    url: /#education
+    url: /education/
 
   - title: "Internship"
-    url: /#intern
+    url: /internship/
 
   - title: "Awards"
     url: /awards/

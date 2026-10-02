@@ -22,15 +22,3 @@ Hello! I am a final-year Master's student at Jianghan University. I am currently
 * 🚀 [2026/04]: One paper has been accepted to **ICMR 2026 (CCF-B)**, Second Author. 《Query-Guided Conflict Inference and Incongruity-Aware Alignment for Implicit Hate Speech Detection in Videos》. [[Paper]](https://doi.org/10.1145/3805622.3810673)
 * 💼 [2025/10]: Joined **HiThink Research** as a Research Intern.
 * 🏆 [2025/08]: One paper has been accepted to **PRICAI 2025 (CCF-C)**, First Author. 《AMCCL: Adaptive Multi-scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis》. [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34)
-
-<h1 id="education">Education</h1>
-<p><strong class="education-degree">Master</strong><br>
-<strong>Jianghan University</strong> | Computer Technology | 2024.09-2027.06</p>
-
-<p><strong class="education-degree">Bachelor</strong><br>
-<strong>Jianghan University</strong> | Electronic Information Engineering | 2020.09-2024.06</p>
-
-<h1 id="intern">Internship</h1>
-* **HiThink Research, Research Intern, 2025.10 - 2026.05**
-  * Multimodal Document Image Editing: Developed edit pipeline, constructed benchmarks, and developed complex agentic image edit workflow.
-  * Factual Hallucination Detection: Developed a three-stage Agent system comprising atomic fact segmentation, information retrieval (Web & Financial databases), and reasoning/judgment.
