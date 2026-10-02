@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 id="about">About Me</h1>
 
-Hello! I am a final-year Master's student at Jianghan University. I am currently working remotely on agent research with [Prof. Yun Chen](https://scai.sufe.edu.cn/cy/main.htm) of SUFE. My current research focuses on recursive self-improvement. Please feel free to reach out to me via email.
+Hello! I am a final-year Master's student at Jianghan University. I am currently working remotely on agent research with [Prof. Yun Chen](https://scai.sufe.edu.cn/cy/main.htm) of SUFE. My research interests include **LLM agents**, **multimodal understanding and generation**, and **natural language processing**. My current research focuses on recursive self-improvement. Please feel free to reach out to me via email.
 
 <h1 id="news">News</h1>
 * 📄 [2026/08]: One **arXiv preprint** has been released, Second Author.<br>
@@ -24,17 +24,13 @@ Hello! I am a final-year Master's student at Jianghan University. I am currently
 * 🏆 [2025/08]: One paper has been accepted to **PRICAI 2025 (CCF-C)**, First Author. 《AMCCL: Adaptive Multi-scale Convolution Fusion Network with Contrastive Learning for Multimodal Sentiment Analysis》. [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34)
 
 <h1 id="education">Education</h1>
-* <strong class="education-degree">Master</strong><br>
-  **Jianghan University** | Computer Technology | 2024.09-2027.06
-* <strong class="education-degree">Bachelor</strong><br>
-  **Jianghan University** | Electronic Information Engineering | 2020.09-2024.06
+<p><strong class="education-degree">Master</strong><br>
+<strong>Jianghan University</strong> | Computer Technology | 2024.09-2027.06</p>
+
+<p><strong class="education-degree">Bachelor</strong><br>
+<strong>Jianghan University</strong> | Electronic Information Engineering | 2020.09-2024.06</p>
 
 <h1 id="intern">Internship</h1>
 * **HiThink Research, Research Intern, 2025.10 - 2026.05**
   * Multimodal Document Image Editing: Developed edit pipeline, constructed benchmarks, and developed complex agentic image edit workflow.
   * Factual Hallucination Detection: Developed a three-stage Agent system comprising atomic fact segmentation, information retrieval (Web & Financial databases), and reasoning/judgment.
-
-<h1 id="research-interests">Research Interests</h1>
-* LLM Agent
-* Multimodal Understanding and Generation
-* Natural Language Processing
