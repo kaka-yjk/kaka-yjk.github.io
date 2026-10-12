@@ -10,9 +10,10 @@ redirect_from:
 
 <h1 id="about">About Me</h1>
 
-Hello! I am a final-year Master's student at Jianghan University. I am currently working remotely on agent research with [Prof. Yun Chen](https://scai.sufe.edu.cn/cy/main.htm) of SUFE. My research interests include **LLM agents**, **multimodal understanding and generation**, and **natural language processing**. My current research focuses on recursive self-improvement. Please feel free to reach out to me via email.
+Hello! I am a final-year Master's student at Jianghan University. At the same time, I am a long-term Visiting Student at [SUSTech](https://www.sustech.edu.cn/zh/), under the guidance of [Prof. Guanhua Chen](https://www.sustech.edu.cn/zh/faculties/chenguanhua.html) and [Prof. Yun Chen](https://scai.sufe.edu.cn/cy/main.htm). My research interests include **LLM agents**, **multimodal understanding and generation**, and **natural language processing**. My current research focuses on recursive self-improvement. Please feel free to reach out to me via email.
 
 <h1 id="news">News</h1>
+* 🎓 [2026/10]: Joined **SUSTech** as a long-term Visiting Student.
 * 📄 [2026/08]: One **arXiv preprint** has been released, Second Author.<br>
   《Multimodal Adaptive Expert Selection with Text Routing and Ordinal Prototype Optimization for Sentiment Analysis》. [[Paper]](https://arxiv.org/abs/2608.30726)
 * 📄 [2026/07]: One **arXiv preprint** has been released, First Author.<br>
