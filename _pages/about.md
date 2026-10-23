@@ -13,6 +13,7 @@ redirect_from:
 Hello! I am a final-year Master's student at Jianghan University. I am a long-term Visiting Student at [SUSTech](https://www.sustech.edu.cn/), under the guidance of [Prof. Guanhua Chen](https://www.sustech.edu.cn/zh/faculties/chenguanhua.html) and [Prof. Yun Chen](https://scai.sufe.edu.cn/cy/main.htm). My research interests include **LLM agents**, **multimodal understanding and generation**, and **natural language processing**. My current research focuses on recursive self-improvement.
 
 <h1 id="news">News</h1>
+* 🏅 [2026/10]: Awarded the **National Scholarship for Master's Students** (硕士研究生国家奖学金).
 * 🎓 [2026/10]: Joined **SUSTech** as a long-term Visiting Student.
 * 📄 [2026/08]: One **arXiv preprint** has been released, Second Author.<br>
   《Multimodal Adaptive Expert Selection with Text Routing and Ordinal Prototype Optimization for Sentiment Analysis》. [[Paper]](https://arxiv.org/abs/2608.30726)
