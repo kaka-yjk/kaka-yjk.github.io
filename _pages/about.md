@@ -11,7 +11,7 @@ redirect_from:
 
 <h1 id="about">👋 About Me</h1>
 
-Hello! I am a final-year Master's student at Jianghan University. I am also a long-term visiting student at [Southern University of Science and Technology](https://www.sustech.edu.cn/), under the guidance of [Prof. Guanhua Chen](https://www.sustech.edu.cn/zh/faculties/chenguanhua.html) and [Prof. Yun Chen](https://scai.sufe.edu.cn/cy/main.htm). My research interests include **LLM agents**, **multimodal understanding and generation**, and **natural language processing**. My current research focuses on recursive self-improvement.
+Hello! I am a final-year Master's student at Jianghan University. I am also a long-term visiting student at [Southern University of Science and Technology](https://www.sustech.edu.cn/), under the guidance of [Prof. Guanhua Chen](https://www.sustech.edu.cn/zh/faculties/chenguanhua.html) and [Prof. Yun Chen](https://scai.sufe.edu.cn/cy/main.htm). Previously, I interned at [**HiThink Research**](https://hithink.sg/#/Home). My research interests include **LLM agents**, **multimodal understanding and generation**, and **natural language processing**. My current research focuses on recursive self-improvement.
 
 <h1 id="news">🔥 News</h1>
 
@@ -31,7 +31,7 @@ Hello! I am a final-year Master's student at Jianghan University. I am also a lo
 
 <h1 id="internship">💻 Internship</h1>
 
-* [**HiThink Research**](https://hithink.sg/#/Home), Research Intern, 2025.10 - 2026.05
+* **HiThink Research**, Research Intern, 2025.10 - 2026.05
   * Multimodal Document Image Editing & Factual Hallucination Detection & GUI Agent
 
 <h1 id="awards">🏅 Awards</h1>
