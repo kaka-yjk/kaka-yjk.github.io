@@ -8,11 +8,11 @@ main:
   - title: "Internship"
     url: /#internship
 
-  - title: "Honors and Awards"
-    url: /#awards
-
   - title: "Publications"
     url: /#publications
 
   - title: "Preprints"
     url: /#preprints
+
+  - title: "Honors and Awards"
+    url: /#awards

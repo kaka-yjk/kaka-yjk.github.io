@@ -34,12 +34,6 @@ Hello! I am a final-year Master's student at Jianghan University. I am also a lo
 * **HiThink Research**, Research Intern, 2025.10 - 2026.05
   * Multimodal Document Image Editing & Factual Hallucination Detection & GUI Agent
 
-<h1 id="awards">🏅 Honors and Awards</h1>
-
-* <span style="color: #d44848;">Graduate National Scholarship, 2026</span>
-* Hubei Provincial Second Prize, Blue Bridge Cup National College Students' Software and Information Technology Contest, 2023
-* Hubei Provincial Second Prize, National Undergraduate Engineering Training Integration Ability Competition, 2021
-
 <h1 id="publications">📝 Publications</h1>
 
 {% include academic-papers.html papers=site.publications %}
@@ -47,3 +41,9 @@ Hello! I am a final-year Master's student at Jianghan University. I am also a lo
 <h1 id="preprints">📄 Preprints</h1>
 
 {% include academic-papers.html papers=site.preprints %}
+
+<h1 id="awards">🏅 Honors and Awards</h1>
+
+* <span style="color: #d44848;">Graduate National Scholarship, 2026</span>
+* Hubei Provincial Second Prize, Blue Bridge Cup National College Students' Software and Information Technology Contest, 2023
+* Hubei Provincial Second Prize, National Undergraduate Engineering Training Integration Ability Competition, 2021
