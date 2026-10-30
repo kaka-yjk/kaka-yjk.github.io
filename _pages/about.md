@@ -44,6 +44,6 @@ Hello! I am a final-year Master's student at Jianghan University. I am also a lo
 
 <h1 id="awards">🏅 Honors and Awards</h1>
 
-* <span style="color: #d44848;">Graduate National Scholarship, 2026</span>
+* <span style="color: #d44848;">Graduate National Scholarship (Top 3%), 2026</span>
 * Hubei Provincial Second Prize, Blue Bridge Cup National College Students' Software and Information Technology Contest, 2023
 * Hubei Provincial Second Prize, National Undergraduate Engineering Training Integration Ability Competition, 2021
