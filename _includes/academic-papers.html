@@ -1,0 +1,8 @@
+{% assign papers = include.papers | sort: 'sort_key' | reverse %}
+{% for paper in papers %}
+<article class="publication-entry">
+  <h2><a href="{{ paper.link }}">{{ paper.title }}</a></h2>
+  <p>{{ paper.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+  <p class="publication-venue">{{ paper.venue_label | replace: 'CCF B', 'CCF-B' | replace: 'CCF C', 'CCF-C' }}</p>
+</article>
+{% endfor %}

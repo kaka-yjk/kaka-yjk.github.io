@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% include seo.html %}
+  <link rel="stylesheet" href="{{ '/assets/css/academic-home.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}">
+</head>
+<body>
+  <header class="masthead">
+    <nav class="academic-nav" aria-label="Main navigation">
+      <a class="home-link" href="{{ '/' | relative_url }}">Homepage</a>
+      {% for link in site.data.navigation.main %}
+      <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+  </header>
+  <div id="main">
+    <aside class="sidebar">{% include author-profile.html %}</aside>
+    <main class="page"><div class="page__inner-wrap"><div class="page__content">{{ content }}</div></div></main>
+  </div>
+</body>
+</html>

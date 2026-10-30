@@ -1,0 +1,54 @@
+---
+---
+
+// AcadHomepage by Yi Ren (MIT); source and license in _sass/acad-homepage.
+@import "acad-homepage/vendor/breakpoint/breakpoint";
+@import "acad-homepage/variables";
+$large: 1024px;
+$x-large: 1280px;
+@import "acad-homepage/mixins";
+@import "acad-homepage/vendor/susy/susy";
+@import "acad-homepage/reset";
+@import "acad-homepage/base";
+@import "acad-homepage/utilities";
+@import "acad-homepage/animations";
+@import "acad-homepage/masthead";
+@import "acad-homepage/page";
+@import "acad-homepage/sidebar";
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+
+html { scroll-behavior: smooth; }
+body { padding: 0 0 3rem; }
+.academic-nav { max-width: 1280px; margin: auto; padding: 16px 24px; display: flex; align-items: center; gap: 28px; flex-wrap: wrap; }
+.academic-nav a { color: #494e52; text-decoration: none; font-size: 16px; }
+.academic-nav a:hover, .academic-nav a:focus { color: #2259a8; }
+.home-link { font-weight: 700; margin-right: auto; }
+#main { margin-top: 32px; }
+.page__content h1 { scroll-margin-top: 90px; font-size: 1.5em; margin-top: 1.8em; }
+.page__content h1:first-child { margin-top: 0; }
+.page__content a { color: #2259a8; }
+.sidebar .author__urls { display: block; position: static; border: 0; box-shadow: none; background: transparent; padding: 0; }
+.sidebar .author__urls-wrapper { display: block; }
+.sidebar .author__urls-wrapper button { display: none; }
+.sidebar .author__desktop { display: block; }
+.sidebar .author__bio { font-size: 0.85em; line-height: 1.6; }
+.icon-pad-right { margin-right: 0.5em; }
+.education-degree { color: #da8500; }
+.publication-entry { margin: 1.3em 0 1.7em; }
+.publication-entry h2 { font-size: 1.05em; line-height: 1.45; margin: 0 0 0.4em; }
+.publication-entry p { line-height: 1.6; margin: 0; }
+.publication-venue { color: #d44848; font-weight: 700; font-style: italic; }
+@media (min-width: 1024px) { .sidebar { position: sticky; top: 90px; } }
+@media (max-width: 1023px) {
+  .academic-nav { gap: 12px 20px; padding: 12px 18px; }
+  .academic-nav a { font-size: 14px; }
+  .home-link { display: none; }
+  .sidebar { margin-bottom: 2em; }
+  .sidebar .author__avatar { display: block; width: 120px; }
+  .sidebar .author__content { display: block; padding-left: 0; }
+  .sidebar .author__urls { display: flex; flex-wrap: wrap; gap: 4px 18px; }
+  .page__content h1 { scroll-margin-top: 120px; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { animation: none !important; } }
