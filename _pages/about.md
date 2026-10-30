@@ -32,7 +32,7 @@ Hello! I am a final-year Master's student at Jianghan University. I am also a lo
 <h1 id="internship">💻 Internship</h1>
 
 * [**HiThink Research**](https://hithink.sg/#/Home), Research Intern, 2025.10 - 2026.05
-  * Multimodal Document Image Editing & Factual Hallucination Detection
+  * Multimodal Document Image Editing & Factual Hallucination Detection & GUI Agent
 
 <h1 id="awards">🏅 Awards</h1>
 
