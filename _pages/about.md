@@ -16,10 +16,10 @@ Hello! I am a final-year Master's student at Jianghan University. I am also a lo
 <h1 id="news">🔥 News</h1>
 
 * 🏅 [2026/10]: Awarded the **Graduate National Scholarship**.
-* 📄 [2026/08]: One **arXiv preprint** has been released.
-* 📄 [2026/07]: One **arXiv preprint** has been released.
-* 🎉 [2026/04]: Two papers are accepted by **ICMR 2026 (CCF-B)**.
-* 🎉 [2025/08]: One paper is accepted by **PRICAI 2025 (CCF-C)**.
+* 📄 [2026/08]: One **arXiv preprint** has been released. [[Paper]](https://arxiv.org/abs/2608.30726)
+* 📄 [2026/07]: One **arXiv preprint** has been released. [[Paper]](https://arxiv.org/abs/2607.10301)
+* 🎉 [2026/04]: Two papers are accepted by **ICMR 2026 (CCF-B)**. [[Paper 1]](https://doi.org/10.1145/3805622.3810770) [[Paper 2]](https://doi.org/10.1145/3805622.3810673)
+* 🎉 [2025/08]: One paper is accepted by **PRICAI 2025 (CCF-C)**. [[Paper]](https://doi.org/10.1007/978-981-95-7081-2_34)
 
 <h1 id="education">🎓 Education</h1>
 
