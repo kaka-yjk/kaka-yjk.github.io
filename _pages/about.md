@@ -38,7 +38,7 @@ Hello! I am a final-year Master's student at Jianghan University. I am also a lo
 
 {% include academic-papers.html papers=site.publications %}
 
-<h1 id="preprints">📄 Preprints</h1>
+<h1 id="preprints">📄 Preprints and working papers</h1>
 
 {% include academic-papers.html papers=site.preprints %}
 
